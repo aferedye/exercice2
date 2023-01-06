@@ -1,4 +1,4 @@
-# Exercice 1 de github  
+# Exercice 2 de github  
 ******************************  
   
 liste des commandes utilisé :  
